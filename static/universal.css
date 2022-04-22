@@ -1,0 +1,17 @@
+/* kachra ka daba ekh ha to kya hua kachra ka daba to alag ha na */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.m-auto{
+    margin: auto;
+}
+.max-width-1{
+    width: 60vw;
+}
+.background-color{
+    background-color: red;
+}
+body{
+    overflow-x: hidden;
+}

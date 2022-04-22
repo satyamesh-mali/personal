@@ -1,0 +1,53 @@
+.linebox{
+    width: 170x;
+    height: 50px;
+    display: flex;
+}
+#line1{
+    width: 80px;
+    height: 5px;
+    background-color: red;
+    margin-top: 12px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+#line2{
+    width: 100px;
+    height: 5px;
+    background-color: yellow;
+    margin-top: 12px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+#line3{
+    width: 90px;
+    height: 5px;
+    background-color: purple;
+    margin-top: 12px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+#line4{
+    width: 70px;
+    height: 5px;
+    background-color: blue;
+    margin-top: 12px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+#line5{
+    width: 80px;
+    height: 5px;
+    background-color: green;
+    margin-top: 12px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+#line6{
+    width: 60px;
+    height: 5px;
+    background-color: pink;
+    margin-top: 12px;
+    margin-left: 10px;
+    border-radius: 10px;
+}

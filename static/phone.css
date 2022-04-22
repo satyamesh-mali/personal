@@ -1,0 +1,33 @@
+@media screen and (max-width:920px) {
+    .right-content{
+        flex-direction: column;
+    }
+    .right-content-box-2 img{
+        width: 200px;
+        height: 200px;
+    }
+    #bar{
+        margin: auto;
+    }
+    .left-content{
+        width: 100vw;
+        height: 200px;
+    }
+    .content{
+        height: 600px;
+        flex-direction: column;
+        width: 100vw;
+        align-items: center;
+    }
+    .right-content{
+        width: 300px;
+        height: 200px;
+        margin-top: 100px;
+        margin-left: 50px;
+        display: flex;
+        justify-content: center;
+        /* flex-direction: column; */
+        /* background-color: red; */
+    }
+    
+}

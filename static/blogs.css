@@ -1,0 +1,21 @@
+.right-content-box{
+    width: 208px;
+    height: 197px;
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 20px
+}
+.right-content{
+    flex-direction: row;
+    gap: 50px;
+}
+@media screen and (max-width:970px) {
+    .content{
+        height: 1100px;
+    }
+    .right-content{
+        flex-direction: column;
+        height: 1100px;
+        margin-right: 50px;
+    }
+}

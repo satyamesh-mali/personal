@@ -1,0 +1,65 @@
+/* kachra ka daba ekh ha to kya hua kachra ka daba to alag ha na */
+.box1{
+    width: 100vw;
+    height: 60px;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+}
+#bar{
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+}
+.content{
+    width: 100vw;
+    height: 650px;
+    display: flex;
+    overflow: hidden;
+    /* background-color: purple; */
+}
+.left-content{
+    width: 250px;
+    height: 8oopxpx;
+    background-color: rgb(134, 141, 141);
+    display: flex;
+    justify-content: center;
+    /* position: fixed; */
+    /* align-items: center; */
+}
+.left-content li{
+    list-style: none;
+}
+.left-content li ul{
+    margin-top: 25px;
+}
+.left-content li ul a{
+    text-decoration: none;
+    color: black;
+}
+.sidebargo{
+    display: none;
+}
+.right-content{
+    width: 1142px;
+    height: 591px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Quintessential', cursive;
+    text-decoration: dotted;
+    font-style: italic;
+}
+.right-content-size{
+    width: 100vw;
+}
+.right-content-box-2 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    margin-left: 10px;
+}
+.right-content-box-1{
+    margin-bottom: 10px;
+}
